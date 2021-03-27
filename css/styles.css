@@ -13,3 +13,11 @@ body{
     border: 1px solid #000;
     margin: 0 auto;
 }
+#tituloH{
+    background: rgb(14, 97, 24);
+    color:rgb(255, 255, 255);
+    padding: 2%;
+    font-size: 20px;
+    margin: 0px;
+    border: 1px rgb(255, 226, 4) solid;
+}
